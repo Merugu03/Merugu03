@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Kymar
 - 👀 I’m looking to take up devloper as my career and seeking  to learn more in fields like Data science, Deep Learning and Full Stack.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Reactjs and Nodejs
 - 📫 Reach to me on meruguakshay@gmail.com
 
 <!---
