@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshay Kymar
+- 👋 Hi, I’m Akshay Kumar
 - 👀 I’m looking to take up devloper as my career and seeking  to learn more in fields like Data science, Deep Learning and Full Stack.
 - 🌱 I’m currently learning Reactjs and Nodejs
 - 📫 Reach to me on meruguakshay@gmail.com
