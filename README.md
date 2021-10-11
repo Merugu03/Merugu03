@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Kumar
 - 👀 I’m looking to take up devloper as my career and seeking  to learn more in fields like Data science, Deep Learning and Full Stack.
-- 🌱 I’m currently working on my personal project
+- you can know more aboute me here https://merugu03.github.io/My-sit/
 - 📫 Reach to me on meruguakshay@gmail.com
 
 <!---
